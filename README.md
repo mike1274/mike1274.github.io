@@ -1,1 +1,1 @@
-# mike1274.github.io
+# Michael Ochoa SNHU Computer Science Capstone Project
